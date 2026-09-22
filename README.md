@@ -32,8 +32,3 @@ Herramientas utilizadas:
 ![telnet](https://img.shields.io/badge/telnet-cliente%20TCP-lightgrey?style=flat-square&logo=gnome-terminal&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
-
-## Estructura del repositorio
-
-![Estructura](https://img.shields.io/badge/-Estructura%20del%20repositorio-2c3e50?style=flat-square)
